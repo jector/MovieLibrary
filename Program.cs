@@ -17,7 +17,7 @@ namespace Movielibrary
             {
                 // display choices to user
                 Console.WriteLine("1) Add Movie");
-                Console.WriteLine("2) Display All Movies");
+                Console.WriteLine("2) Display the last 10 Movies");
                 Console.WriteLine("Enter to quit");
                 // input selection
                 choice = Console.ReadLine();
